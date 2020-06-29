@@ -4,7 +4,7 @@ Plox is a FreePascal implementation of the lexers and parsers at https://craftin
 
 As a way to better understand how lexers and parsers work I'm working my way through the website and implementing the Java code as presented on the site, and also converting the code to a FreePascal implementation.
 
-I'm opting to follow the structure as presented on the website by Bob Nystrom for most things, with just a few small changes and additions as needed.
+I'm opting to follow the structure as presented on the website by Bob Nystrom for most things, with just a few small changes as needed.
 
 ## FPC and Lazarus
 I'm using FPC 3.3.1 and Lazarus 2.1.0 but there's not really any exotic code here, any recent versions should work just fine.
